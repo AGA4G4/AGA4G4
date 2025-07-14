@@ -1,6 +1,6 @@
 - 📫 How to reach me: Discord: @aliesquire | Telegram: @dej4vuismelife | Instagram: @dayuaga4g4 | Email: aliesquir3@gmail.com
   <!-- Markdown -->
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGA4G4)](https://github.com/anuraghazra/github-readme-stats)  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGA4G4)](https://github.com/anuraghazra/github-readme-stats&hide=Dockerfile)  
 
   ![Jokes Card](https://readme-jokes.vercel.app/api)  
 <!---
