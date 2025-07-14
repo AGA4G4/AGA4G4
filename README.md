@@ -2,7 +2,7 @@
   <!-- Markdown -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGA4G4)](https://github.com/AGA4G4/github-readme-stats)
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGA4G4)](https://github.com/anuraghazra/github-readme-stats&hide=Dockerfile)  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGA4G4)](https://github.com/anuraghazra/github-readme-stats&hide=Dockerfile&theme=synthwave)  
 
   ![Jokes Card](https://readme-jokes.vercel.app/api)  
 <!---
