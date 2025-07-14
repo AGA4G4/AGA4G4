@@ -1,5 +1,5 @@
 - 📫 How to reach me: Discord: @aliesquire | Telegram: @dej4vuismelife | Instagram: @dayuaga4g4 | Email: aliesquir3@gmail.com  
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun)  
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=aga4g4)  
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGA4G4)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 AGA4G4/AGA4G4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
